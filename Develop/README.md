@@ -9,6 +9,7 @@
 ## Table of Contents
 
 * [Installation](#installation) 
+* [Usage](#usage) 
 * [License](#license) 
 
 
@@ -20,9 +21,9 @@ To install necessary dependencies, run the following command:
 
 ## Usage
 
+git add -A
 
-
-
+![Example](../)
 
 ## Features
 
@@ -30,7 +31,8 @@ To install necessary dependencies, run the following command:
 
 
 ## License
-This project is licensed under the GNUGPLv3 -lets people do almost anything they want with your project, except distributing closed source versions /n license.
+License that explains which license the application is covered under:
+This project is licensed under the GNUGPLv3 -lets people do almost anything they want with your project, except distributing closed source versions license.
 
 ## Credits
 
@@ -38,4 +40,5 @@ This project is licensed under the GNUGPLv3 -lets people do almost anything they
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at trevorHilimire@gmail.com
+If you have any questions about the repo, open an issue or contact me directly at 
+This project was created by ![Trv893](https://github.com/trv893/)

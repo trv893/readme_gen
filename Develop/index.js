@@ -13,6 +13,12 @@ const questions = [
   },
   {
     type: 'input',
+    name: 'githubusn',
+    message: 'Enter GitHub User name?',
+    default: "Trv893"
+  },
+  {
+    type: 'input',
     name: 'title',
     message: "Project's name?"
   },

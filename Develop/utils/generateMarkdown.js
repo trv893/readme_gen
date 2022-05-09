@@ -29,6 +29,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== 'None') {
     return `## License
+License that explains which license the application is covered under:
 This project is licensed under the ${license} license.`;
   }
   return '';
@@ -113,6 +114,7 @@ ${renderLicenseSection(data.license)}\n
 ${data.credits}\n
 ## Questions\n
 If you have any questions about the repo, open an issue or contact me directly at ${data.email}
+This project was created by ![${data.githubusn}](https://github.com/trv893/)
 `;
   }
   
