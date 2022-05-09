@@ -22,9 +22,10 @@ To install necessary dependencies, run the following command:
 
 ## Usage
 
-Install dependencies with npm i, run program with node index, answer prompts and a readme.md file will be generated.
+Install dependencies with npm i, run program with node index, answer prompts and a readme.md file will be generated.Install dependencies with npm i, run program with node index, answer prompts and a readme.md file will be generated.
 
-
+![Example](../Develop\utils\assets\images\screenshot.JPG)
+![Example](..Develop\utils\assets\images\walkthrough.gifG)
 
 ## Features
 
@@ -44,4 +45,4 @@ This project is licensed under the GNUGPLv3 -lets people do almost anything they
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at trevorHilimire@gmail.com
-This project was created by Git[Trv893](https://github.com/trv893/)
+This project was created by Github user: [Trv893](https://github.com/trv893/)
