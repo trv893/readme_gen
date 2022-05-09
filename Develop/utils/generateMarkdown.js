@@ -114,7 +114,7 @@ ${renderLicenseSection(data.license)}\n
 ${data.credits}\n
 ## Questions\n
 If you have any questions about the repo, open an issue or contact me directly at ${data.email}
-This project was created by ![${data.githubusn}](https://github.com/trv893/)
+This project was created by Github user: [${data.githubusn}](https://github.com/trv893/)
 `;
   }
   
