@@ -24,7 +24,7 @@ To install necessary dependencies, run the following command:
 
 Install dependencies with npm i, run program with node index, answer prompts and a readme.md file will be generated.Install dependencies with npm i, run program with node index, answer prompts and a readme.md file will be generated.
 
-![Example](Develop\utils\assets\images\screenshot.JPG)
+![Example](Develop/utils/assets/images/screenshot.JPG)
 
 ## Features
 
